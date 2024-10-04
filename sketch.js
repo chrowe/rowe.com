@@ -16,7 +16,7 @@ function setup() {
 }
 
 function draw() {
-  background(250, 180, 200);
+  background(150, 180, 200);
 
   // Call every frame to adjust camera based on mouse/touch
   orbitControl();
